@@ -1,0 +1,79 @@
+{
+	"m_AudioMixerGroupViews": [
+		{
+			"m_Guids": [
+				{
+					"m_Data_0_": 2375518472,
+					"m_Data_1_": 1230832459,
+					"m_Data_2_": 609234623,
+					"m_Data_3_": 1191985036
+				}
+			],
+			"m_Name": "View"
+		}
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_CurrentViewIndex": 0,
+	"m_EnableSuspend": true,
+	"m_ExposedParameters": [],
+	"m_HideFlags": 0,
+	"m_MasterGroup": { "m_Collection": "sharedassets0.assets", "m_PathID": 3230 },
+	"m_MixerConstant": {
+		"m_EffectGUIDs": [],
+		"m_Effects": [],
+		"m_ExposedParameterIndices": [],
+		"m_ExposedParameterNames": [],
+		"m_GroupGUIDs": [
+			{
+				"m_Data_0_": 2375518472,
+				"m_Data_1_": 1230832459,
+				"m_Data_2_": 609234623,
+				"m_Data_3_": 1191985036
+			}
+		],
+		"m_GroupNameBuffer": "TWFzdGVyAAA=",
+		"m_Groups": [
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": -1,
+				"m_PitchIndex": 1,
+				"m_Solo": false,
+				"m_VolumeIndex": 0
+			}
+		],
+		"m_NumSideChainBuffers": 0,
+		"m_PluginEffectNameBuffer": "AA==",
+		"m_SnapshotGUIDs": [
+			{
+				"m_Data_0_": 4096807742,
+				"m_Data_1_": 1113216476,
+				"m_Data_2_": 67888290,
+				"m_Data_3_": 1191964347
+			}
+		],
+		"m_SnapshotNameBuffer": "U25hcHNob3QAAA==",
+		"m_Snapshots": [
+			{
+				"m_NameHash": 3577444195,
+				"m_TransitionIndices": [],
+				"m_TransitionTypes": [],
+				"m_Values": [
+					0.28699797,
+					1
+				]
+			}
+		]
+	},
+	"m_Name": "StaticAudio",
+	"m_OutputGroup": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_Snapshots": [
+		{ "m_Collection": "sharedassets0.assets", "m_PathID": 3233 }
+	],
+	"m_StartSnapshot": { "m_Collection": "sharedassets0.assets", "m_PathID": 3233 },
+	"m_SuspendThreshold": -80,
+	"m_TargetSnapshot": { "m_Collection": "sharedassets0.assets", "m_PathID": 3233 },
+	"m_UpdateMode": 0
+}

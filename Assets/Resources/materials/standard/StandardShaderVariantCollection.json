@@ -1,0 +1,48 @@
+{
+	"m_CorrespondingSourceObject": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_HideFlags": 0,
+	"m_Name": "StandardShaderVariantCollection",
+	"m_PrefabAsset": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "resources.assets", "m_PathID": 0 },
+	"m_Shaders": [
+		{
+			"Key": { "m_Collection": "resources.assets", "m_PathID": 4021 },
+			"Value": {
+				"m_Variants": [
+					{
+						"m_Keywords": "DIRECTIONAL DYNAMICLIGHTMAP_ON LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP",
+						"m_PassType": 4
+					},
+					{
+						"m_Keywords": "DIRECTIONAL DYNAMICLIGHTMAP_ON LIGHTMAP_ON _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP",
+						"m_PassType": 4
+					},
+					{
+						"m_Keywords": "DIRECTIONAL DYNAMICLIGHTMAP_ON _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP",
+						"m_PassType": 4
+					},
+					{
+						"m_Keywords": "DIRECTIONAL LIGHTMAP_ON LIGHTMAP_SHADOW_MIXING _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP",
+						"m_PassType": 4
+					},
+					{
+						"m_Keywords": "DIRECTIONAL LIGHTMAP_ON LIGHTPROBE_SH _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP",
+						"m_PassType": 4
+					},
+					{
+						"m_Keywords": "DIRECTIONAL LIGHTMAP_ON _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP",
+						"m_PassType": 4
+					},
+					{
+						"m_Keywords": "DIRECTIONAL LIGHTPROBE_SH SHADOWS_SHADOWMASK _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP",
+						"m_PassType": 4
+					},
+					{
+						"m_Keywords": "DIRECTIONAL LIGHTPROBE_SH _ALPHABLEND_ON _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP",
+						"m_PassType": 4
+					}
+				]
+			}
+		}
+	]
+}

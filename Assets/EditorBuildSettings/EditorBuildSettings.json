@@ -1,0 +1,217 @@
+{
+	"m_ConfigObjects": {},
+	"m_HideFlags": 0,
+	"m_Scenes": [
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/sys_Intro.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/sys_Menu.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Legacy.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Plains.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_DT.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_DesertBridge.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Polar6.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_PitValley.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Facility.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Reminiscence.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Conspiracy.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/MapMaker.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/CustomMap.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Afterglow.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_F2Square.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Pillars.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Exploration.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Void.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Sea.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Nostalgia.unity"
+		},
+		{
+			"m_Enabled": true,
+			"m_Guid": {
+				"m_Data_0_": 0,
+				"m_Data_1_": 0,
+				"m_Data_2_": 0,
+				"m_Data_3_": 0
+			},
+			"m_Path": "Assets/Scenes/map_Waterpark.unity"
+		}
+	],
+	"m_UseUCBPForAssetBundles": false
+}

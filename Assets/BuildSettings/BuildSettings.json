@@ -1,0 +1,52 @@
+{
+	"m_AuthToken": "1bd93071b6eb0e1abb35225f14388f3b8b21ab47708d6def6aea29a2f400be5315b2245b2c79d854",
+	"m_BuildTags": [],
+	"m_EnabledVRDevices": [],
+	"m_EnableDynamicBatching": false,
+	"m_GraphicsAPIs": [
+		2
+	],
+	"m_HasAdvancedVersion": true,
+	"m_HasClusterRendering": false,
+	"m_HasLocalLightShadows": true,
+	"m_HasPROVersion": true,
+	"m_HasPublishingRights": true,
+	"m_HasShadows": true,
+	"m_HasSoftShadows": true,
+	"m_HideFlags": 0,
+	"m_IsEducationalBuild": false,
+	"m_IsEmbedded": false,
+	"m_IsNoWatermarkBuild": true,
+	"m_IsPrototypingBuild": false,
+	"m_IsTrial": false,
+	"m_PreloadedPlugins": [
+		"libRF_CNative_lin",
+		"dracodec_unity",
+		"libdracodec_unity"
+	],
+	"m_Scenes": [
+		"Assets/Scenes/sys_Intro.unity",
+		"Assets/Scenes/sys_Menu.unity",
+		"Assets/Scenes/map_Legacy.unity",
+		"Assets/Scenes/map_Plains.unity",
+		"Assets/Scenes/map_DT.unity",
+		"Assets/Scenes/map_DesertBridge.unity",
+		"Assets/Scenes/map_Polar6.unity",
+		"Assets/Scenes/map_PitValley.unity",
+		"Assets/Scenes/map_Facility.unity",
+		"Assets/Scenes/map_Reminiscence.unity",
+		"Assets/Scenes/map_Conspiracy.unity",
+		"Assets/Scenes/MapMaker.unity",
+		"Assets/Scenes/CustomMap.unity",
+		"Assets/Scenes/map_Afterglow.unity",
+		"Assets/Scenes/map_F2Square.unity",
+		"Assets/Scenes/map_Pillars.unity",
+		"Assets/Scenes/map_Exploration.unity",
+		"Assets/Scenes/map_Void.unity",
+		"Assets/Scenes/map_Sea.unity",
+		"Assets/Scenes/map_Nostalgia.unity",
+		"Assets/Scenes/map_Waterpark.unity"
+	],
+	"m_UsesOnMouseEvents": true,
+	"m_Version": "6000.3.3f1"
+}
